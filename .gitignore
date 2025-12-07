@@ -1,0 +1,14 @@
+.DS_Store
+# LaTeX source files and build artifacts
+*.tex
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+compile.log
+# Jupyter checkpoints
+.ipynb_checkpoints/
+assets/*.png
